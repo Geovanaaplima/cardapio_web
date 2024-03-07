@@ -1,0 +1,248 @@
+.conteiner2 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+    align-items: center;
+    max-width: 81rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3 rem;
+    z-index: 10;
+    display: flex;
+}
+ 
+.conteiner2 img {
+ 
+    width: 60%;
+    align-items: center;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 20px;
+    color: var(--mainColor);
+    align-items: center;
+    background-color: var(--mainColor);
+ 
+ 
+}
+ 
+img:hover {
+    color: var(--lightOne);
+}
+ 
+ 
+.conteiner2 img:hover {
+    width: 65%;
+    transition: all 1s ease-in-out;
+ 
+ 
+}
+ 
+.conteiner2 p {
+    margin-right: 100px;
+    margin-left: 10px;
+}
+ 
+.opcao {
+    display: inline-block;
+    padding: 2px 20px;
+    color: #fff !important;
+    background-color: var(--mainColor);
+    border-radius: 16px;
+    text-transform: capitalize;
+    transition: 0.5s;
+}
+ 
+.opcao:hover {
+    background-color: var(--hoverColor);
+    transform: scale(1.01);
+    transition: 0.5s;
+}
+
+.conteiner3 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+        
+    max-width: 81rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3 rem;
+    z-index: 10;
+    display: flex;
+}
+ 
+.conteiner3 img {
+ 
+    width: 70%;
+    align-items: center;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 20px;
+    color: var(--mainColor);
+    align-items: center;
+    background-color: var(--mainColor);
+ 
+ 
+}
+.conteiner4 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+        
+    max-width: 81rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3 rem;
+    z-index: 10;
+    display: flex;
+}
+ 
+.conteiner4 img {
+ 
+    width: 70%;
+    align-items: center;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 20px;
+    color: var(--mainColor);
+    align-items: center;
+    background-color: var(--mainColor);
+ 
+ 
+}
+section{
+    margin-left:5%;
+}
+.conteiner5 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+        
+    max-width: 81rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3 rem;
+    z-index: 10;
+    display: flex;
+}
+ 
+.conteiner5 img {
+ 
+    width: 70%;
+    align-items: center;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 20px;
+    color: var(--mainColor);
+    align-items: center;
+    background-color: var(--mainColor);
+ 
+ 
+}
+.conteiner6 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+        
+    max-width: 81rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3 rem;
+    z-index: 10;
+    display: flex;
+}
+ 
+.conteiner6 img {
+ 
+    width: 70%;
+    align-items: center;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 20px;
+    color: var(--mainColor);
+    align-items: center;
+    background-color: var(--mainColor);
+ 
+ 
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.conteiner7 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3 rem;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+}
+ 
+.conteiner7 img {
+ 
+    width: 50%;
+    
+    border-style: solid;
+    padding: 15px;
+    border-radius: 20px;
+    color: var(--mainColor);
+    align-items: center;
+    background-color: var(--mainColor);
+}
+.conteiner8 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    max-width: 81rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3 rem;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+}
+ 
+.conteiner8 img {
+    width: 50%;
+    
+    border-style: solid;
+    padding: 15px;
+    border-radius: 20px;
+    color: var(--mainColor);
+    align-items: center;
+    background-color: var(--mainColor);
+   
+}
+h1{
+    margin: 5%;
+}
+h2{
+     margin-top: 5%;
+}
+.conteiner9 {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    max-width: 81rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3 rem;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+}
+ 
+.conteiner9 img {
+    width: 50%;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 20px;
+    color: var(--mainColor);
+    align-items: center;
+    background-color: var(--mainColor);
+   
+}
