@@ -22,7 +22,7 @@ Selecione uma especialidade, se preferir.
 Entre em contato conosco pelo telefone (59)986-7905 ou visite nosso site para fazer o pedido online.
 # 🕰️Horário de Funcionamento:
 • Terça a domingo: 19h00 - 00h00
-# Política de Entrega:
+# 🏍️Política de Entrega:
 • Entregas dentro de um raio de 5 km da pizzaria a entrega é grates.
 • Taxa de entrega de R$2 para lugares mais longes.
 • Tempo de entrega estimado: 30-45 minutos.
