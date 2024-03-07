@@ -1,6 +1,7 @@
 # 📃Cardápio da Pizzaria Bella Napoli 
 Bem-vindo ao cardápio da Pizzaria Bella Napoli! Aqui estão algumas informações úteis sobre nossas opções de pizza:
 Tamanhos Disponíveis:
+
 • Pequeno (4 fatias)
 
 • Média (8 fatias)
